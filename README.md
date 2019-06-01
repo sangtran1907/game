@@ -1,5 +1,5 @@
-# game
-sang tran
-hoa nguyen
-hoa nguyen
-nhat nguyen
+# game : member:
+sang tran,
+hoa nguyen,
+hoa nguyen,
+nhat nguyen,
